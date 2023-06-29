@@ -1,0 +1,1 @@
+INSERT INTO `investments` (`id`, `product_id`, `investor_id`, `invest_quantity`, `commission`, `income`, `created_at`, `updated_at`) VALUES (2, 101, 9, 10, 5, 8000, '2023-06-26 11:07:47', '2023-06-26 11:45:29');

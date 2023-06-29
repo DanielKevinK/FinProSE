@@ -1,0 +1,6 @@
+INSERT INTO `categories` (`id`, `name`, `slug`, `link`, `image`, `created_at`, `updated_at`) VALUES (1, 'Beans', 'beans', 'beans', 'product/almond-1687782179.jpg', '2023-06-25 23:39:12', '2023-06-26 12:22:59');
+INSERT INTO `categories` (`id`, `name`, `slug`, `link`, `image`, `created_at`, `updated_at`) VALUES (2, 'Rice', 'rice', 'rice', 'product/brown-rice-1687782190.jpg', '2023-06-26 11:53:09', '2023-06-26 12:23:10');
+INSERT INTO `categories` (`id`, `name`, `slug`, `link`, `image`, `created_at`, `updated_at`) VALUES (3, 'Breads & Eggs', 'breads-eggs', 'bread', 'product/bread-1687782202.jpg', '2023-06-26 11:54:24', '2023-06-26 12:23:22');
+INSERT INTO `categories` (`id`, `name`, `slug`, `link`, `image`, `created_at`, `updated_at`) VALUES (4, 'Tea & Coffee', 'tea-coffee', 'tea', 'product/blackcurrant-tea-1687782236.jpg', '2023-06-26 11:54:31', '2023-06-26 12:23:56');
+INSERT INTO `categories` (`id`, `name`, `slug`, `link`, `image`, `created_at`, `updated_at`) VALUES (5, 'Fruits', 'fruits', 'fruit', 'product/apple-1687782253.jpg', '2023-06-26 11:54:38', '2023-06-26 12:24:13');
+INSERT INTO `categories` (`id`, `name`, `slug`, `link`, `image`, `created_at`, `updated_at`) VALUES (9, 'Vegetables', 'vegetables', 'vegetables', 'product/carrot-1687783107.jpg', '2023-06-26 12:38:27', '2023-06-26 12:38:27');
